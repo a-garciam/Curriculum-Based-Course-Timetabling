@@ -1,0 +1,21 @@
+teachers = {
+    "Gilberto_Perez": "1",
+    "Cristian_Munteanu": "2",
+    "Ramon_Minones": "3",
+    "Jose_Rodriguez": "4",
+    "Guillermo_Roca": "5",
+    "Cristina_Costoya": "6",
+    "Carlos_Regueiro": "7",
+    "Julian_Bouzas": "8",
+    "Julio_Bregains": "9",
+    "Carlos_Gomez": "10",
+    "Jose_Naya": "11",
+    "Eduardo_Mosqueira": "12",
+    "Patricia_Gonzalez": "13",
+    "Jose_Molinelli": "14",
+    "Antonio_Farina": "15",
+    "Olinda_Nelly": "16",
+    "Cuaco_Pato": "17",
+    "Javier_Paris": "18",
+    "Santiago_Rodriguez": "19"
+}
